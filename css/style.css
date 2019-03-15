@@ -42,7 +42,7 @@ body a:hover,body a:focus{
     margin-right: 0.3em;
 }
 .navbar-header h1 a {
-color: #0efafa;
+color: #0bc1c1;
     text-decoration: none;
     display:inline-block;
     background: #fff;
@@ -74,13 +74,13 @@ color: #0efafa;
     font-weight: 300;
 }
 .navbar-nav li a.active{
-	color:#0efafa !important;
+	color:#0bc1c1 !important;
 }
 .navbar-nav li:hover a:before{
 	bottom: 0%;
 }
 .navbar-nav  li.active a, .navbar-nav  li.active1 a.dropdown-toggle,.navbar-nav li a:hover {
-    color:#0efafa !important;
+    color:#0bc1c1 !important;
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2); 
 	-ms-transform: scale(1.2); 
@@ -245,9 +245,9 @@ nav.navbar.navbar-default {
     -moz-osx-font-smoothing: grayscale;
     text-decoration: none;
     display: inline-block;
-    background: #0efafa;
+    background: #0bc1c1;
     font-family: 'Roboto Condensed', sans-serif;
-    border: 2px solid #0efafa;
+    border: 2px solid #0bc1c1;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all;
 	-o-transition:.5s all;
@@ -279,7 +279,7 @@ nav.navbar.navbar-default {
     padding: 1em 2em 0;
 }
 .bnr-modal button.close {
-    color: #0efafa;
+    color: #0bc1c1;
     opacity: .9;
     font-size: 2.5em;
 }
@@ -405,7 +405,7 @@ nav.navbar.navbar-default {
 .title h3 {
     font-size: 3.5em;
     text-align: center;
-    color: #0efafa;
+    color: #0bc1c1;
     font-weight: 200;
     position: relative;
     margin-bottom: 1em;
@@ -419,7 +419,7 @@ nav.navbar.navbar-default {
     content: '';
     width: 70px;
     height: 3px;
-    background: #0efafa;
+    background: #0bc1c1;
     position: absolute;
     bottom: -2px;
     left: 35%;
@@ -452,7 +452,7 @@ p {
     font-size: 2em;
     margin: 1.2em 0 .5em;
     line-height: 1.2em;
-    color: #0efafa;
+    color: #0bc1c1;
     font-weight: 400;
     letter-spacing: 1px;
 }
@@ -487,7 +487,7 @@ p {
 } 
 .open-hours-left h6 {
     font-size: 1.2em;
-    color: #0efafa;
+    color: #0bc1c1;
     margin-top: 0.5em;
     font-weight: 500;
 }
@@ -517,7 +517,7 @@ p {
 .services-grids p:after {
     content: '';
     padding: 1px;
-    background: #0efafa;
+    background: #0bc1c1;
     width: 33%;
     height: 3px;
     margin: 2em auto 0;
@@ -567,7 +567,7 @@ p {
 	top: -7px;
 	left: -7px;
 	padding: 7px;
-	box-shadow: 0 0 0 2px #0efafa;
+	box-shadow: 0 0 0 2px #0bc1c1;
 	-webkit-transition: -webkit-transform 0.5s, opacity 0.2s;
 	-webkit-transform: scale(0.8);
 	-moz-transition: -moz-transform 0.5s, opacity 0.2s;
@@ -578,7 +578,7 @@ p {
 	opacity: 0;
 }
 .services-grids:hover span{
-	background:#0efafa;
+	background:#0bc1c1;
 	color: #fff !important;
 }
 .services-grids:hover span:after {
@@ -776,7 +776,7 @@ p {
     height: inherit;
     left: 10%;
     top: 12%;
-    border: 6px solid #0efafa;
+    border: 6px solid #0bc1c1;
     -webkit-transition: opacity 0.35s, transform 0.35s;
     -moz-transition: opacity 0.35s, transform 0.35s;
     transition: opacity 0.35s, transform 0.35s;
@@ -980,16 +980,16 @@ p {
     font-size: 1.1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background:#0efafa;
+    background:#0bc1c1;
     transition: 0.5s all;
-    border: 2px solid#0efafa;
+    border: 2px solid#0bc1c1;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
     -moz-transition: 0.5s all;
 }
 .contact  input[type="submit"]:hover {
     background: none;
-    color:#0efafa;
+    color:#0bc1c1;
 }
 
 ::-webkit-input-placeholder {
@@ -1016,7 +1016,7 @@ p {
 }
 .w3layouts_footer_grid .title h2 {
     font-size: 2.5em;
-    color: #0efafa;
+    color: #0bc1c1;
     font-weight: 200;
     position: relative;
     margin-bottom: 1em;
@@ -1030,7 +1030,7 @@ p {
     content: '';
     width: 40px;
     height: 3px;
-    background: #0efafa;
+    background: #0bc1c1;
     position: absolute;
     bottom: -2px;
     left: 35%;
@@ -1049,7 +1049,7 @@ p {
 	text-decoration:none;
 }
 .w3l_footer_nav li a:hover,.w3l_footer_nav li a.active{
-	color:#0efafa;
+	color:#0bc1c1;
 }
 .footer-w3copy {
     background: #171717;
@@ -1062,7 +1062,7 @@ p {
     font-weight: 300;
 }
 .footer-w3copy p a{
-	color:#0efafa;
+	color:#0bc1c1;
 	text-decoration:underline;
 	font-weight: 500;
 }
